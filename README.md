@@ -1,2 +1,4 @@
-# forecasting_with_adam
-The presentation materials from the Forecasting &amp; Analytics with ADAM meeting on September 14, 2022, can be found in this repository. Presented by Ivan Svetunkov.
+# Forecasting and Analytics with ADAM.
+
+This repository contains the presentation materials from the Forecasting & Analytics with ADAM session on September 14, 2022. 
+Presented by Ivan Svetunkov.
